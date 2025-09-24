@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwor4kt782lyn"
-path="res://.godot/imported/index.png-80964ad67552d78b1e33f58ad16188ff.ctex"
+uid="uid://dotxil0rx355y"
+path="res://.godot/imported/index.png-c23dfa0fc622c170b6b4f806fe9a3653.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://web/index.png"
-dest_files=["res://.godot/imported/index.png-80964ad67552d78b1e33f58ad16188ff.ctex"]
+source_file="res://rogue-clicker/web/index.png"
+dest_files=["res://.godot/imported/index.png-c23dfa0fc622c170b6b4f806fe9a3653.ctex"]
 
 [params]
 
